@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagementTool", "ProjectManagementTool\ProjectManagementTool.csproj", "{E07008CE-45B7-4E95-B850-B4EBDF460E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagementTool.Core", "ProjectManagementTool.Core\ProjectManagementTool.Core.csproj", "{8942BE59-17DB-450D-BC4B-315ECC33FA1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07008CE-45B7-4E95-B850-B4EBDF460E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07008CE-45B7-4E95-B850-B4EBDF460E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07008CE-45B7-4E95-B850-B4EBDF460E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07008CE-45B7-4E95-B850-B4EBDF460E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8942BE59-17DB-450D-BC4B-315ECC33FA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8942BE59-17DB-450D-BC4B-315ECC33FA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8942BE59-17DB-450D-BC4B-315ECC33FA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8942BE59-17DB-450D-BC4B-315ECC33FA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
